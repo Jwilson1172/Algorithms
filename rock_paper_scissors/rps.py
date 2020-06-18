@@ -3,8 +3,13 @@
 import sys
 
 def rock_paper_scissors(n):
-  # Your code here
-
+  moves = ['rock', 'paper', 'scissors']
+  # for n = 1
+  # ouptut = ['rock', 'paper', 'scissors']
+  # for n = 2
+  # output = [['rock', 'rock'], ['rock', 'paper'], ['rock', 'scissors'],
+  # ['paper', 'rock'], ['paper', 'paper'],['paper', 'scissors'], ['scissors',
+  # 'rock'], ['scissors', 'paper'], ['scissors', 'scissors']]
   pass
 
 
